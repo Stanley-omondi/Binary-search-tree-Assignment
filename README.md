@@ -1,1 +1,3 @@
 # Binary-search-tree-Assignment
+STANLEY OMONDI  SCT221-0278/2022
+DAVID OUMA    SCT221-0273/2022
