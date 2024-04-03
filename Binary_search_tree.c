@@ -66,8 +66,8 @@ int main() {
 
     struct TreeNode* root = createBSTFromArray(arr, n);
 
-  //  int keyToSearch = 25;
-  //  printLevelAndHeight(root, keyToSearch, 1);
+    int keyToSearch = 25;
+    printLevelAndHeight(root, keyToSearch, 1);
 
     return 0;
 }
